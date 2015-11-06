@@ -1,0 +1,27 @@
+html,
+body,
+.wrapper_all {
+  height: 100%;
+  font-family:  'bebas_neueregular';
+}
+.wrapper{
+  max-width: 980px;
+  margin:0 auto;
+  padding: 0 20px;
+}
+.content {
+  min-height: 100%;
+  padding-bottom: 90px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+footer {
+  height: 80px;
+  margin-top: -80px;
+}
+nav li a{
+	text-align: center;
+	display: block;
+	text-decoration: none;
+}
